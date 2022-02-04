@@ -1,6 +1,7 @@
 # ImportanceSampling
  
 ## Description
+Implementation of a simple Ray Tracer that provides Multiple Importance Sampling based on a balanced heuristic for direct lighting computation.
 
 ## Examples
 
