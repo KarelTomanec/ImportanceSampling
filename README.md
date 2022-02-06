@@ -11,5 +11,5 @@ Implementation of a simple Ray Tracer that provides Multiple Importance Sampling
 ### BRDF sampling
 <img src="/Renders/brdfSampling.PNG" with="400" height="400">
 
-### Multiple imprtance sampling
+### Multiple importance sampling
 <img src="/Renders/multipleImportanceSampling.PNG" with="400" height="400">
